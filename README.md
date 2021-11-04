@@ -1,4 +1,4 @@
 # Food-Recipe-App(React-Native)
 
 
-  npm run android
+    npm run android
